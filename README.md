@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Checkout
-<img src="https://media.giphy.com/media/NMVpfQVGDZlOW7EQiX/giphy.gif" />
+<img src="https://media.giphy.com/media/TimQOtHPqPcs9VEAb9/giphy.gif" />
 - 🌱 I’m currently learning Advanced NextJS
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 - 🤔 I’m looking for help with Nah
