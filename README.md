@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Games and Anime 
 <img src="https://media.giphy.com/media/MMnDgPw0yB6ms/giphy.gif" width="300" height="300" />
 - ⚡ Fun fact:
- <div class="tenor-gif-embed" data-postid="18858223" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-humor-programmer-documentation-gif-18858223">Coding Humor GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="[https://media.giphy.com/media/MMnDgPw0yB6ms/giphy.gif" width="300" height="300](https://tenor.com/view/coding-humor-programmer-documentation-gif-18858223)" />
 
