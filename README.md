@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Games and Anime 
 <img src="https://media.giphy.com/media/MMnDgPw0yB6ms/giphy.gif" width="300" height="300" />
 - ⚡ Fun fact: i hate Documentation
-<iframe src="https://giphy.com/embed/xT4uQwLt2AyurOGWFW" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xT4uQwLt2AyurOGWFW">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/xT4uQwLt2AyurOGWFW/giphy.gif" width="300" height="300"/>
 
